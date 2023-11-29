@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto+Slab&family=Rubik&display=swap');
+
+header,footer{
+    display: flex;
+    background-color: #090A26;
+    text-align:center;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.logo{
+    padding-left:10px ;
+    padding-top:4px ;
+    width: 110px;
+}
+
+.navig{
+    margin-left: 210px;
+    font-family: Rubik;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.text_fig{
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    font-family:Roboto;
+    font-size: 32px; 
+    align-items:center;
+}
+
+#vstup{
+    width: 1200px;
+    margin-left: 40px;
+    margin-top: 20px;
+    align-self: center;
+}
+
+body{
+    background-color: #379683;
+}
+
+h2{
+    font-size: 25px;
+    color: white;
+    font-family: Rubik Iso;
+    margin-bottom: 70px;
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+    font-family: Rubik Iso;
+}
+
+p{
+    font-family: Inter;
+    color:white ;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 1250px;
+    text-align:justify;
+    font-size: 17px;
+}
+
+article{
+    background-color:#17134F;
+    margin:25px;
+    margin-right:90px ;
+    margin-left:90px ;
+    padding: 40px;
+    border-radius: 10px;  
+}
+
+img{
+    border: 8px solid #090A26;
+}
+
+.Uch_Ist{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+.ras{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+iframe{
+    padding-top: 20px;
+}
+
+table{
+    width: 100%;
+}
+
+tr,th,td {
+    font-size: 30px;
+    font-family: rubik;
+    border: 5px solid black;
+
+}
+
+th{
+    color: #EDB749;
+    padding: 20px;
+    text-align: center; 
+    font-family: Inter;  
+    background-color: #0f0127;
+}
+
+td{
+    font-size: 20px;
+    color: #CAD4D6;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color:#B0C4DE;
+}
+
+.raz{
+    color: #090A26;
+    background-color: #4F48A7;
+    color: #B0C4DE;
+}
+
+.yellow{
+    background-color: #585AA6;
+    color: #B0C4DE;
+    border: 5px solid black;
+}
+
+#toblerone{
+    background-color:#15163A;
+    padding: 5px;
+}
+
+.gallery{
+    text-align:center;
+    margin: 0;
+    padding: 0;
+}
+
+#serhio{
+    padding: 0;
+    margin: 0;
+}
