@@ -64,9 +64,10 @@ h1{
 p{
     font-family: Inter;
     color:white ;
-    width: 1250px;
+    width: 100%;
     text-align:justify;
-    font-size: 17px;
+    font-size: 17px 100%;
+
 }
 
 article{
@@ -74,7 +75,8 @@ article{
     margin:25px;
     margin-right:90px ;
     margin-left:90px ;
-    padding: 40px;
+    padding: 50px;
+    justify-content: center ;
     border-radius: 10px;  
 }
 
@@ -94,6 +96,12 @@ img{
 .ras{
     margin-left: 120px;
     margin-right: 120px;
+}
+
+.ras p{
+    padding-right: 50px;
+    margin-left: 25px;
+    width: 92%;
 }
 
 iframe{
